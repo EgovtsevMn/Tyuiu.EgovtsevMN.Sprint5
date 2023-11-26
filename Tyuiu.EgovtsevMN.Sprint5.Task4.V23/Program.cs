@@ -12,13 +12,13 @@ namespace Tyuiu.EgovtsevMN.Sprint5.Task4.V23
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #5 | Выполнила: Еговцев М. Н. | АСОиУб-23-1";
+            Console.Title = "Спринт #5 | Выполнил: Еговцев М. Н. | АСОиУб-23-1";
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* Спринт #5                                                                    *");
             Console.WriteLine("* Тема: Потоковый метод записи данных в бинарный файл                          *");
             Console.WriteLine("* Задание #4                                                                   *");
             Console.WriteLine("* Вариант #23                                                                  *");
-            Console.WriteLine("* Выполнила Еговцев М. Н. | АСОиУб-23-1                                        *");
+            Console.WriteLine("* Выполнил: Еговцев М. Н. | АСОиУб-23-1                                        *");
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                     *");
             Console.WriteLine("* Дан файл С:\\DataSprint5\\InPutDataFileTask4V0.txt  Создать папку            *");
